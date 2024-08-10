@@ -27,7 +27,7 @@
 ## 📚 Projects
 - View my [**portfolio projects**](https://pstitalia0603.github.io/).
 - View my [**current projects**](https://pstitalia0603.github.io/track/current-projects/).
-- View my [**coding projects**](https://github.com/pstitalia0603?tab=repositories).
+- View my [**coding projects**](https://github.com/pstitalia0603).
 
 ## 📫 Connect with Me
 - [Website](https://pstitalia0603.github.io/)
