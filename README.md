@@ -13,7 +13,7 @@
 - **Web Development**: HTML5 | CSS3 | Markdown | JavaScript | NodeJS
 - **Multimedia Design**: Adobe (Photoshop, Illustrator, Acrobat) | Affinity Suite: Photo, Designer, Publisher | Video Production: Apple iMovie, DaVinci Resolve
 - **Other**: Microsoft Office 365 | CMS (WordPress, Drupal) | Version Control (Git, Github)
-- 
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pstitalia0603)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🪀 Stuff I Use
