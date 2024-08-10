@@ -2,7 +2,7 @@
 
 ## 🙋‍♀️ About Me
 - 🤌🏼 I am:  100% Italian-American; a mother, a wife, a sister, a daughter.
-- 🪆I am: Organized, Efficient, Responsible and Responsive.
+- 🪆 I am: Organized, Efficient, Responsible and Responsive.
 - 🌐 I do: data, web, design
 - 📊 I create: graphics, videos, dashboards, code. 
 - 🖳 My degree is in Information Systems.
