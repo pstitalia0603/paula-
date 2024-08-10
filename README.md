@@ -1,4 +1,4 @@
-👋 Hi, I’m Paula %%, a data analyst from the US.%% 
+👋 Hi, I’m Paula ...
 
 ## 🙋‍♀️ About Me
 - 🤌🏼 I am:  100% Italian-American; a mother, a wife, a sister, a daughter.
