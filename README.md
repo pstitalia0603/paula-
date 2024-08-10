@@ -25,9 +25,9 @@
 - **Services**: Syncthing - File Synchronization | Bitwarden
 
 ## 📚 Projects
-- View my portfolio projects on [**my website**](https://pstitalia0603.github.io/).
-- View my current projects [**here**](https://pstitalia0603.github.io/track/current-projects/).
-- View my coding projects on [**Github**](https://github.com/pstitalia0603?tab=repositories).
+- View my [**portfolio projects**](https://pstitalia0603.github.io/).
+- View my [**current projects**](https://pstitalia0603.github.io/track/current-projects/).
+- View my [**coding projects**](https://github.com/pstitalia0603?tab=repositories).
 
 ## 📫 Connect with Me
 - [Website](https://pstitalia0603.github.io/)
